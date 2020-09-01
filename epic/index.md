@@ -33,8 +33,12 @@ Kapacita centra je zhruba 50 osob při přednáškovém rozestavení, prostor je
 
 ## Možné varianty rozestavení:
 
-<p><a href="https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto1_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto3.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto3_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto1_zmensenina.jpg"></a>
-<a href="https://a.pirati.cz/karlovarsky/img/epic/foto4.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto4_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto5.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto5_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto6.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto6_zmensenina.jpg"></a></p>
+<a href="https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto1_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto3.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto3_zmensenina.jpg"></a> 
+
+<a href="https://a.pirati.cz/karlovarsky/img/epic/foto1.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto1_zmensenina.jpg"></a>
+<a href="https://a.pirati.cz/karlovarsky/img/epic/foto4.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto4_zmensenina.jpg"></a> 
+
+<a href="https://a.pirati.cz/karlovarsky/img/epic/foto5.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto5_zmensenina.jpg"></a> <a href="https://a.pirati.cz/karlovarsky/img/epic/foto6.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto6_zmensenina.jpg"></a>
 
 **Pro měnší akce lze využít také menší zasedací místnost:**
 <a href="https://a.pirati.cz/karlovarsky/img/epic/foto7.JPG"><img src="https://a.pirati.cz/karlovarsky/img/epic/foto7_zmensenina.jpg"></a>
