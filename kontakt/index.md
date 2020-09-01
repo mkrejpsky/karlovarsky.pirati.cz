@@ -10,7 +10,7 @@ residences:
      Karlovy Vary
    spravce: 
    residenceImg:
-   mapLink: 
+   mapLink: https://maps.google.com/maps?q=e-PIC%20-%20P%C3%ADr%C3%A1tsk%C3%A9%20centrum%20Moskevsk%C3%A1%2060%20Karlovy%20Vary&t=&z=17&ie=UTF8&iwloc=&output=embed
 contentSize: even # zařídí že sloupce maji stejnou šířku a nikoliv 3:2 jak je default 
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
