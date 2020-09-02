@@ -3,8 +3,8 @@ date: 2020-04-06
 category: blog
 layout: post
 tags:
-    - Karlovarský kraj
-    - Tisková zpráva
+    - Karlovarský_kraj
+    - Tisková_zpráva
     - Lázeňství
 title: České lázeňství je ve vážném ohrožení
 author: KS Karlovarský kraj
